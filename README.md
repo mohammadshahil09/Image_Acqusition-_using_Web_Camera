@@ -1,5 +1,6 @@
+## Name: MOHAMMAD SHHAIL
+## Reg No: 212223240044
 
-# Aim:
  
 To write a python program using OpenCV to capture the image from the web camera and do the following image manipulations.
 i) Write the frame as JPG 
